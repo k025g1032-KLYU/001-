@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shooting game 001v3", "shooting game 001v3.vcxproj", "{FFE1F49C-7870-460A-89F1-C9B3DF15A05F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE1F49C-7870-460A-89F1-C9B3DF15A05F}.Debug|x64.ActiveCfg = Debug|x64
+		{FFE1F49C-7870-460A-89F1-C9B3DF15A05F}.Debug|x64.Build.0 = Debug|x64
+		{FFE1F49C-7870-460A-89F1-C9B3DF15A05F}.Release|x64.ActiveCfg = Release|x64
+		{FFE1F49C-7870-460A-89F1-C9B3DF15A05F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B94A482C-0E2E-4C0E-A3B1-719985E7658B}
+	EndGlobalSection
+EndGlobal
